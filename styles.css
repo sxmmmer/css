@@ -47,7 +47,7 @@ a:visited {
     margin-bottom: 20px;
 }
 
-@media (max-height: 700px) {
+@media (max-height: 200px) {
     .info {
         text-align: center;
         display: block;
